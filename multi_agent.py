@@ -7,7 +7,7 @@ import requests
 # -------------------------------
 # API & Email Config
 # -------------------------------
-GEMINI_API_KEY = "AIzaSyDdb-w5Ef74igAXwZZK_i_t7sqIzaq99BU"
+GEMINI_API_KEY = "AIzaSyDfWKQ0WkfsfqENR5fWD8SJ-snpkgX2HRU"
 EMAIL = "batch22.ai.010@gmail.com"
 APP_PASSWORD = "biom jhko vsmd fgjz"
 
